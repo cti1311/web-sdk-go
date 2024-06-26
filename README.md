@@ -24,7 +24,7 @@ To get started with PayU, visit our [Developer Guide](https://devguide.payu.in/l
 
 ```shell
 import (
-  Payu "github.com/payu-india/web-sdk-go"
+  Payu "github.com/cti1311/web-sdk-go"
 )
 ```
 

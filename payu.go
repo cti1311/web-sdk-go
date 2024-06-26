@@ -1,9 +1,9 @@
-package main
+package payu
 
 import (
 	"errors"
-	"github.com/payu-india/web-sdk-go/utils"
-	"github.com/payu-india/web-sdk-go/wrappers"
+	"github.com/cti1311/web-sdk-go/utils"
+	"github.com/cti1311/web-sdk-go/wrappers"
 )
 
 type PayuStruct struct {
